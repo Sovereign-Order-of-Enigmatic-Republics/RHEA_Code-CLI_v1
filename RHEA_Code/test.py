@@ -1,0 +1,1 @@
+print('Hello World!')\nprint('Meet RHEA_Code-CLI!')
